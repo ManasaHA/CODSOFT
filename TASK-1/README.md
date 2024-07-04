@@ -18,10 +18,10 @@ To run this project, you need to have Python and the following libraries install
 - matplotlib
 - seaborn
 
-Model
+Model :
 The model used for this project is a Logistic Regression classifier ,Random Forest, are used for comparing the performance.
 
-Results
+Results :
 The performance of the model is evaluated using metrics such as accuracy, precision, recall, and the confusion matrix. 
 
 
