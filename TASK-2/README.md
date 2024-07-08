@@ -6,7 +6,7 @@ This project aims to build a model that predicts the rating of a movie based on 
 
 ## Dataset
 
-The dataset used in this project includes historical data of movies with the following features:
+The dataset used in this project is obtained from [Kaggle](https://www.kaggle.com/datasets/adrianmcmahon/imdb-india-movies) and includes historical data of movies with the following features:
 - Name
 - Genre
 - Director
